@@ -1,5 +1,5 @@
 # youtube-dl-pyqt5
-Simple pyqt5 gui for youtube-dl
+Simple pyqt5 gui for youtube-dl. Designed for use on KDE Desktops. 
 
 # Dependancies
 
