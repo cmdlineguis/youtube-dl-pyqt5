@@ -8,4 +8,5 @@ To use, copy youtube links from your browser, then click the paste button in the
 # Shortcuts
 
 Ctrl+Up, Ctrl+Down - moves videos in the queue up and down in the list
+
 Del - deletes a video that was added to the queue. 
