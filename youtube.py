@@ -88,7 +88,7 @@ class YoutubeGUI(QWidget):
         self.splitter.addWidget(self.Right)
         w = self.size().width()
         #h = self.size().height()
-        self.splitter.setSizes([int(w * 0.66), int(w * 0.33)])
+        self.splitter.setSizes([int(w * 0.4), int(w * 0.6)])
         self.level0v.addWidget(self.splitter)
         self.setLayout(self.level0v)
         
